@@ -3,7 +3,7 @@
 <package format="3">
   <name>robot_diff_ros2</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Robot diferencial aplicando ROS2 Humble y OPENCV</description>
   <maintainer email="iesusdavila@gmail.com">robot</maintainer>
   <license>TODO: License declaration</license>
 
