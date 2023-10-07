@@ -134,7 +134,7 @@
     <!-- ***** R_WHEEL GAZEBO **** -->
     <!-- ************************* -->
     <gazebo reference="right_wheel">
-        <material>Gazebo/Bñack</material>
+        <material>Gazebo/Black</material>
     </gazebo>
 
     <!-- ************************* -->
